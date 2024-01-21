@@ -51,7 +51,25 @@ namespace MethodOverriding
             {
                 Console.WriteLine("Conversion failed");
             }
+
+            //use of ref modifier
+            string name = "Tanvir Ahmed";
+
+            SetValue(ref name);
             
+            Console.WriteLine(name);
+            
+        }
+
+        public static void SetValue(ref string str)
+        {
+            if(str == "Tanvir")
+            {
+                Console.WriteLine("Hello," + str);
+            }
+
+            str = "Welcome " + str;
+
         }
     }
 }
