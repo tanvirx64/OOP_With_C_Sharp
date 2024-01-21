@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpBasics\\CSharpBasics.csproj",
+      "projectUniqueName": "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpBasics\\CSharpBasics.csproj",
       "projectName": "CSharpBasics",
-      "projectPath": "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpBasics\\CSharpBasics.csproj",
+      "projectPath": "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpBasics\\CSharpBasics.csproj",
       "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-      "outputPath": "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpBasics\\obj\\",
+      "outputPath": "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpBasics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

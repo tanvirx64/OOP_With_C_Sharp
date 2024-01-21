@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\tanvir-viva\\OOP_With_C_Sharp\\ConstructorInheritance\\ConstructorInheritance.csproj",
+      "projectUniqueName": "G:\\tanvirx64\\OOP_With_C_Sharp\\ConstructorInheritance\\ConstructorInheritance.csproj",
       "projectName": "ConstructorInheritance",
-      "projectPath": "G:\\tanvir-viva\\OOP_With_C_Sharp\\ConstructorInheritance\\ConstructorInheritance.csproj",
+      "projectPath": "G:\\tanvirx64\\OOP_With_C_Sharp\\ConstructorInheritance\\ConstructorInheritance.csproj",
       "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-      "outputPath": "G:\\tanvir-viva\\OOP_With_C_Sharp\\ConstructorInheritance\\obj\\",
+      "outputPath": "G:\\tanvirx64\\OOP_With_C_Sharp\\ConstructorInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj": {}
+    "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj": {}
   },
   "projects": {
-    "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj": {
+    "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj",
+        "projectUniqueName": "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj",
         "projectName": "CSharpOOP",
-        "projectPath": "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj",
+        "projectPath": "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpOOP\\CSharpOOP.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "G:\\tanvir-viva\\OOP_With_C_Sharp\\CSharpOOP\\obj\\",
+        "outputPath": "G:\\tanvirx64\\OOP_With_C_Sharp\\CSharpOOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
