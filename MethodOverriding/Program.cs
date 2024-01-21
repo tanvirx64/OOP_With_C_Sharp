@@ -1,36 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace MethodOverriding
 {
-    public abstract class Shape
-    {
-        public abstract void Draw();
-    }
-    public class Circle : Shape {
-        public sealed override void Draw()
-        {
-            Console.WriteLine("Draw a Circle");
-        }
-    }
-    public class Rectangle : Shape
-    {
-        public override void Draw()
-        {
-            Console.WriteLine("Draw a Rectangle");
-        }
-    }
-
-    public class Canvas { 
-        public void DrawShapes(List<Shape> shapes)
-        {
-            foreach(Shape shape in shapes)
-            {
-                shape.Draw();
-            }
-
-        }
-    }
     internal class Program
     {
         static void Main(string[] args)
@@ -41,6 +12,18 @@ namespace MethodOverriding
 
             var canvas = new Canvas();
             canvas.DrawShapes(shapes);
+
+            //Calcualtor
+            var calculator = new Calculator();
+
+            //without params
+            calculator.Add(new int[] {1,2,3,4,5});
+
+
+            //with params
+            calculator.AddUsingParams(new int[] {1,2,4,5});
+            //or
+            calculator.AddUsingParams(1,2,4,5);
         }
     }
 }
