@@ -1,0 +1,16 @@
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\bin\Debug\net5.0\InheritaceAndComposition.exe
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\bin\Debug\net5.0\InheritaceAndComposition.deps.json
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\bin\Debug\net5.0\InheritaceAndComposition.runtimeconfig.json
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\bin\Debug\net5.0\InheritaceAndComposition.runtimeconfig.dev.json
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\bin\Debug\net5.0\InheritaceAndComposition.dll
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\bin\Debug\net5.0\InheritaceAndComposition.pdb
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.csproj.AssemblyReference.cache
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.GeneratedMSBuildEditorConfig.editorconfig
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.AssemblyInfoInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.AssemblyInfo.cs
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.csproj.CoreCompileInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.dll
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\refint\InheritaceAndComposition.dll
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.pdb
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\InheritaceAndComposition.genruntimeconfig.cache
+G:\tanvirx64\OOP_With_C_Sharp\InheritaceAndComposition\obj\Debug\net5.0\ref\InheritaceAndComposition.dll
