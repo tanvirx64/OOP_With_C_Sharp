@@ -1,0 +1,16 @@
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\bin\Debug\net5.0\Extensibility.exe
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\bin\Debug\net5.0\Extensibility.deps.json
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\bin\Debug\net5.0\Extensibility.runtimeconfig.json
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\bin\Debug\net5.0\Extensibility.runtimeconfig.dev.json
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\bin\Debug\net5.0\Extensibility.dll
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\bin\Debug\net5.0\Extensibility.pdb
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.csproj.AssemblyReference.cache
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.AssemblyInfoInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.AssemblyInfo.cs
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.csproj.CoreCompileInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.dll
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\refint\Extensibility.dll
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.pdb
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\Extensibility.genruntimeconfig.cache
+G:\tanvirx64\OOP_With_C_Sharp\Extensibility\obj\Debug\net5.0\ref\Extensibility.dll
