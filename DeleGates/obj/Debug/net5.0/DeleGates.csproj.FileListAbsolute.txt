@@ -1,0 +1,16 @@
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\bin\Debug\net5.0\DeleGates.exe
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\bin\Debug\net5.0\DeleGates.deps.json
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\bin\Debug\net5.0\DeleGates.runtimeconfig.json
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\bin\Debug\net5.0\DeleGates.runtimeconfig.dev.json
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\bin\Debug\net5.0\DeleGates.dll
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\bin\Debug\net5.0\DeleGates.pdb
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.csproj.AssemblyReference.cache
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.GeneratedMSBuildEditorConfig.editorconfig
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.AssemblyInfoInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.AssemblyInfo.cs
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.csproj.CoreCompileInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.dll
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\refint\DeleGates.dll
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.pdb
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\DeleGates.genruntimeconfig.cache
+G:\tanvirx64\OOP_With_C_Sharp\DeleGates\obj\Debug\net5.0\ref\DeleGates.dll
