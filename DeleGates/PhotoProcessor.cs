@@ -1,4 +1,6 @@
-﻿namespace DeleGates
+﻿using System;
+
+namespace DeleGates
 {
     public class PhotoProcessor
     {
@@ -7,6 +9,15 @@
         {
             var photo = Photo.Load(path);
             
+            filterHandler(photo);
+
+            photo.Save();
+        }
+
+        public void PreProcess(string path, Action<Photo> filterHandler)
+        {
+            var photo = Photo.Load(path);
+
             filterHandler(photo);
 
             photo.Save();
