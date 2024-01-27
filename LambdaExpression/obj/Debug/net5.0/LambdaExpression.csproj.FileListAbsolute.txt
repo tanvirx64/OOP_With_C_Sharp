@@ -1,0 +1,16 @@
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\bin\Debug\net5.0\LambdaExpression.exe
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\bin\Debug\net5.0\LambdaExpression.deps.json
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.json
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.dev.json
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\bin\Debug\net5.0\LambdaExpression.dll
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\bin\Debug\net5.0\LambdaExpression.pdb
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csproj.AssemblyReference.cache
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfoInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfo.cs
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csproj.CoreCompileInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.dll
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\refint\LambdaExpression.dll
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.pdb
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\LambdaExpression.genruntimeconfig.cache
+G:\tanvirx64\OOP_With_C_Sharp\LambdaExpression\obj\Debug\net5.0\ref\LambdaExpression.dll
