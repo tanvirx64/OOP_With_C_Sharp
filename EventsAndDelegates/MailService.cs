@@ -8,5 +8,9 @@ namespace EventsAndDelegates
         {
             Console.WriteLine("MailService: Sending Mail ..." + e.Video.Title );
         }
+        public void SendMailOnOrderPalced(object source, OrderEventArgs e)
+        {
+            Console.WriteLine("MailService: Sending Mail ... Order Id : " + e.Order.Id);
+        }
     }
 }

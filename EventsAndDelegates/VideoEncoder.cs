@@ -3,10 +3,6 @@ using System.Threading;
 
 namespace EventsAndDelegates
 {
-    public class VideoEventArgs : EventArgs
-    {
-        public Video Video{ get; set; }
-    }
     public class VideoEncoder {
         // 1. Define a Delegate
         // 2. Define an Event based on that Delegate
