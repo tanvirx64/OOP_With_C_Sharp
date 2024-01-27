@@ -1,0 +1,16 @@
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.exe
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.deps.json
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.runtimeconfig.json
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.runtimeconfig.dev.json
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.dll
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.pdb
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.csproj.AssemblyReference.cache
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.AssemblyInfoInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.AssemblyInfo.cs
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.dll
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\refint\EventsAndDelegates.dll
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.pdb
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.genruntimeconfig.cache
+G:\tanvirx64\OOP_With_C_Sharp\EventsAndDelegates\obj\Debug\net5.0\ref\EventsAndDelegates.dll
