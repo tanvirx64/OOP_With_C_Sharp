@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace LINQ
 {
@@ -6,7 +8,19 @@ namespace LINQ
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("LINQ");
+            var books = new List<Book>();
+            books.Add(new Book { Id = 1, Name = "Basics of C#" });
+            books.Add(new Book { Id = 2, Name = "Basics of C" });
+            books.Add(new Book { Id = 3, Name = "Basics of C++" });
+
+            var lastBook = books.LastOrDefault();
+
+            Console.WriteLine(lastBook.Name);
         }
+    }
+    public class Book
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
