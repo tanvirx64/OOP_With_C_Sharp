@@ -15,7 +15,12 @@ namespace LINQ
 
             var lastBook = books.LastOrDefault();
 
+            var qLastBook = (from book in books
+                            orderby book.Id descending
+                            select book).First();
+
             Console.WriteLine(lastBook.Name);
+            Console.WriteLine(qLastBook.Name);
         }
     }
 }
